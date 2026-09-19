@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+Code snippet
+# ---------------------------------
+# 自訂課程與多餘檔案過濾規則
+# ---------------------------------
+*.pdf
+*.docx
+*.doc
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.sqlite
+*.db
+.DS_Store
